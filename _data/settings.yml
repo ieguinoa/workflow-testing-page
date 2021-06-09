@@ -2,9 +2,9 @@
 analytics-id: #leave blank to not use Analytics
 
 #Subtitle
-subtitle:
-  active: true
-  text: Yet Another Minimal Theme
+#subtitle:
+  #active: true
+  #text: Yet Another Minimal Theme
 
 #Nav 
 nav:
@@ -30,9 +30,9 @@ mathjax:
   active: true
 
 #Show related posts based on categories
-related-posts:
-  active: true
-  title: "You May Also Enjoy"
+#related-posts:
+  #active: true
+  #title: "You May Also Enjoy"
 
 #Comments
 comments: true
